@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased text-slate-800 dark:text-slate-200;
+  }
+}
+
+@layer components {
+  .form-checkbox {
+    @apply rounded border-slate-300 text-violet-600 shadow-sm focus:border-violet-300 focus:ring focus:ring-offset-0 focus:ring-violet-200 focus:ring-opacity-50;
+  }
+}
+
+@layer utilities {
+  .backdrop-blur-lg {
+    backdrop-filter: blur(12px);
+  }
+}
