@@ -1,11 +1,9 @@
-# Creative Portfolio Web App
+## Password Generator Website
 
-Welcome to the **Creative Portfolio Web App**, a beautifully designed web project deployed on Netlify:  
-🌐 **[Paasword-Generator](https://aesthetic-llama-420535.netlify.app/)**
+Welcome to the **Password Generator Web App** – a sleek and secure online tool to generate strong, customizable passwords for personal or professional use.
 
-## 🚀 Project Overview
-
-This project is a fully responsive, modern, and interactive website built to showcase creativity, skills, and/or projects in a sleek and user-friendly format. It serves as a portfolio, landing page, or web app depending on your goals.
+## 🌐 Live Website
+Access the live version here: [Password Generator](https://aesthetic-llama-420535.netlify.app/)
 
 ## 🖌️ Features
 
@@ -44,7 +42,7 @@ This project is inspired by modern web design trends and personal branding needs
 For feedback, collaboration, or questions:
 
 - 📧 Email: meetnp007@gmail.com.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 Portfolio: [meetpatel12.com](https://www.vitaely.me/meetpatel12)
 
 ---
 
